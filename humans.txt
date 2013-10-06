@@ -1,0 +1,19 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Ryan LaBouve -- Site Maker --  http://twitter.com/ryanlabouve
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    Jekyll static site generator
+    Sass 
+    HTML5 ★ Boilerplate 
+    Normalize.css 
+    jQuery, Modernizr 
+
